@@ -1,6 +1,17 @@
 git status
 	最常用的命令，查看状态
+git config  --global/local/system
 
 
 Questions:
-查看config以及不同级别的config
+#查看config以及不同级别的config
+
+---Updated on 6/16----------
+git config
+	git config (--global) --list
+	三个level:
+		local: repository
+		global: current account
+		system: all accounts
+	
+	
